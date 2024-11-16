@@ -19,8 +19,6 @@
 💻 **Where ideas come to life**:
 solving problems, one commit at a time.
 
-🔮 **Highlights**:
-
 ✨ **Dream Projects**:  
 🚀 Building future-ready applications.  
 🌐 Developing web ecosystems for global impact.
@@ -55,7 +53,7 @@ When I’m not coding:
 
 ## 🚀 Let's Collaborate:
 I believe in the power of teamwork and innovation.  
-🔗 (https://linkedin.com)  
+🔗 (https://www.linkedin.com/in/bivekregmi2000/))  
 ✉️ **Email**: bivekregmi63@gmail.com
 
 ---
