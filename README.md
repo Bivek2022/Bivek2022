@@ -1,6 +1,6 @@
 <h1 align="center">🌌 Welcome to Bivek's Universe 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=Hi,+Bivek!+Welcome+to+my+GitHub!" alt="Bivek Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&lines=Hi,+!+Welcome+to+my+GitHub!" alt="Bivek Typing SVG" />
 </p>
 
 ---
